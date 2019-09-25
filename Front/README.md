@@ -3,13 +3,15 @@
 (version 10.9.0 ou plus) 
 https://nodejs.org/en/
 
-2. Installation Angular CLI 
+
+2 Installation Angular CLI 
 --------------------
 (permet de créer des composants de l'application très facilement et rapidement) :
 	Saisir dans un terminal : 
 <pre>npm install -g @angular/cli</pre>
 
-3. Démarrer l'application
+
+3 Démarrer l'application
 --------------------
 se rendre dans le dossier Front/compare-tout
 
