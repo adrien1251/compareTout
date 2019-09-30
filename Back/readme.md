@@ -14,5 +14,7 @@ Télécharger et installer docker en version .exe:
 https://github.com/docker/toolbox/releases
 
 docker ligne de commande : 
-Aller dans la racine du projet
-   docker-compose up -d
+Aller dans la racine du projet  
+
+
+    docker-compose up -d
